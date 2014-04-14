@@ -16,7 +16,7 @@ Installation:
 
 Setup repository
 ------------------
-Create a folder MajorIRE in your eclipse workspace. From that folder execute the following command
+Create a folder DS-RMI in your eclipse workspace. From that folder execute the following command
 
     $ git clone https://github.com/sjuyal/DS-RMI.git
 
